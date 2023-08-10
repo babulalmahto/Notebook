@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+.field-list{
+    border-color: chartreuse;
+    font-size: 20px;
+    color: crimson;
+    width: 360px;
+    height: 50px;
+}
+.add-btn{
+    color: #f3f0f0;
+    background-color:green;
+    border-radius: 2px;
+    margin: 10px 10px;
+    width: 120px;
+    height: 50px;
+}
+.add-rem{
+    border-radius: 2px;
+    margin: 10px 10px;
+    width: 120px;
+    height: 50px;
+    color:white;
+    background-color: red;
+}

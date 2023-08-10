@@ -1,0 +1,17 @@
+.btn-delete{
+    color:antiquewhite;
+    background-color: red;
+    width:120px;
+    height:50px;
+    margin:20px 10px;
+    border-radius: 5px;
+}
+.select-opt{
+    width:250px;
+    height:40px;
+    margin:10px 5px;
+}
+.check-list{
+    margin: 10px 5px;
+    font-size: 20px;
+}

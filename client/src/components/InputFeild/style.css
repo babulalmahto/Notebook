@@ -1,0 +1,16 @@
+.field-input{
+    margin:10px auto;
+    width:520px;
+    height:40px;
+    border-radius: 5px;
+    border-color:chartreuse;
+    color:red;
+    font-size: 25px;
+}
+.label-field{
+    color:blue;
+    font-size: 20px;
+}
+.g-field>label{
+    color:blue;
+}
